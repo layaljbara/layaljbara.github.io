@@ -1,8 +1,8 @@
 # site settings
-title: Abdelrahman
-subtitle: Zayed
-email: abdel.zayed.1@gmail.com
-description: 'PhD student in Computer science'
+title: Layal
+subtitle: Jbara
+email: lmj44@mail.ubc.ca
+description: 'PhD student in Engineering and Applied Mathematics'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -18,11 +18,11 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/AbdelrahmanZayed
+github_url: https://github.com/LayalJbara
 # gitlab_url:
 # googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/abdelrahman-zayed-669382103/
+linkedin_url: https://www.linkedin.com/in/layal-jbara-612394a8/
 pinterest_url:
 slack_url:
 twitter_url: 
