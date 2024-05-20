@@ -40,7 +40,7 @@ nav-menu: true
 		<p style="text-align: center;"> </p>
 		</div>
 		<i><b>L. Jbara</b> and A. Wachs.</i><br>
-		<i>Physics of Fluids (ACL 2023).</i><br>
+		<i>Physics of Fluids 35(1), Jan 2023. </i><br>
 		<i>TL;DR:  We explain why.</i>
 	
 </div>
