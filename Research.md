@@ -34,13 +34,13 @@ nav-menu: true
 		</header>
 
 	<dl> 
-		<dt>Steady Three-Dimensional Unbounded Flow Past an Obstacle Continuously Deviating from a Dphere to a Cube.?</dt>
+		<dt>Steady Three-Dimensional Unbounded Flow Past an Obstacle Continuously Deviating from a Sphere to a Cube.?</dt>
 		<div style="text-align: left">
 		<img src="figures/cairo_acl24.png" width="400">
 		<p style="text-align: center;"> </p>
 		</div>
 		<i><b>L. Jbara</b> and A. Wachs.</i><br>
 		<i>Physics of Fluids 35(1), Jan 2023. </i><br>
-		<i>TL;DR:  We explain why.</i>
+		<i> We explain why.</i>
 	
 </div>
