@@ -33,6 +33,18 @@ nav-menu: true
       </header>
 
       <dl>
+        <dt>Binary Interactions between Stationary Circular and Non-circular Cylinders in Steady Unbounded Flow.</dt>
+        <dd>
+          <div style="text-align: left">
+            <img src="figures/vof.png" width="400">
+          </div>
+          <i><b>L. Jbara</b> and A. Wachs.</i><br>
+          <i>Journal of Fluid Mechanics, (Under Review)</i><br>
+          <i>Summary of the publication</i><br>
+        </dd>
+      </dl>
+      
+      <dl>
         <dt>Steady Three-Dimensional Unbounded Flow Past an Obstacle Continuously Deviating from a Sphere to a Cube</dt>
         <dd>
           <div style="text-align: left">
@@ -44,19 +56,9 @@ nav-menu: true
           <a href="https://pubs.aip.org/aip/pof/article/35/1/013343/2867562/Steady-three-dimensional-unbounded-flow-past-an">[<b>Paper</b>]</a>
         </dd>
       </dl>
+      
 
-            <dl>
-        <dt>Steady Three-Dimensional Unbounded Flow Past an Obstacle Continuously Deviating from a Sphere to a Cube</dt>
-        <dd>
-          <div style="text-align: left">
-            <img src="figures/vortex.png" width="400">
-          </div>
-          <i><b>L. Jbara</b> and A. Wachs.</i><br>
-          <i>Physics of Fluids, 35(1), Jan 2023.</i><br>
-          <i>TL;DR: We explain.</i><br>
-          <a href="https://pubs.aip.org/aip/pof/article/35/1/013343/2867562/Steady-three-dimensional-unbounded-flow-past-an">[<b>Paper</b>]</a>
-        </dd>
-      </dl>
+
     </div>
   </section>
 </div>
