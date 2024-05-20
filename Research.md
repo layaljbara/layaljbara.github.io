@@ -40,7 +40,6 @@ nav-menu: true
           </div>
           <i><b>L. Jbara</b> and A. Wachs.</i><br>
           <i>Journal of Fluid Mechanics, (Under Review)</i><br>
-          <i>Summary of the publication</i><br>
         </dd>
       </dl>
       
@@ -52,7 +51,6 @@ nav-menu: true
           </div>
           <i><b>L. Jbara</b> and A. Wachs.</i><br>
           <i>Physics of Fluids, 35(1), Jan 2023.</i><br>
-          <i>TL;DR: We explain.</i><br>
           <a href="https://pubs.aip.org/aip/pof/article/35/1/013343/2867562/Steady-three-dimensional-unbounded-flow-past-an">[<b>Paper</b>]</a>
         </dd>
       </dl>
