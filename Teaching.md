@@ -41,7 +41,7 @@ nav-menu: true
 
 		<!-- Content -->
 		<div class="column">
-			<p>One of the students wrote the following poem:</p>
+			<p>Poem Written by a Group of Students:</p>
 			<blockquote>
 				<p>"Layal, the best TA, master of the keys,<br>
 				The object of your student’s hearts,<br>
