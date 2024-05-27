@@ -32,6 +32,29 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Coordinator - Teaching Assistants Training </h1>
+		</header>
+
+		<!-- Content -->
+		<div class="column">
+			<div class="10u 10u$(small)">
+				<h3>Training for School of Landscape and Architecture  (Spring 2020, Fall 2021 )</h3>
+			</div>
+			<div class="10u$ 10u$(small)">
+				<h3>Training for Faculty of Applied Science  (Spring 2021 - 2022 - 2023, Fall 2022 - 2023 - 2024)</h3>
+			</div>
+		
+		</div>
+	</div>
+</section>
+
 <!-- Two -->
 <section id="two">
 	<div class="inner">
