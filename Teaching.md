@@ -66,7 +66,7 @@ nav-menu: true
 
 		<!-- Content -->
 		<div class="column">
-			<p>Poem Written by a Group of Students Inspired by My Python Teaching:</p>
+			<h1>Poem Written by a Group of Students Inspired by My Python Teaching:</h1>
 			<blockquote>
 				<p>"Layal, the best TA, master of the keys,<br>
 				The object of your student’s hearts,<br>
@@ -99,7 +99,7 @@ nav-menu: true
 				- A grateful student
 				</p>
 			</blockquote>
-			<p>Anonymous Evaluations:</p>
+			<h1>Anonymous Evaluations:</h1>
 			<ul>
 				<blockquote>
 					<li>"THANK YOU LAYAL FROM THE BOTTOM OF OUR HEARTS"</li>
