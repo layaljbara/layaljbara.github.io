@@ -74,7 +74,7 @@ nav-menu: true
 				- A grateful student
 				</p>
 			</blockquote>
-			<p>Additional comments from students:</p>
+			<p>Anonymous Evaluations:</p>
 			<ul>
 				<blockquote>
 					<li>"THANK YOU LAYAL FROM THE BOTTOM OF OUR HEARTS"</li>
@@ -85,6 +85,12 @@ nav-menu: true
 					<li>"As beginners in Python, she explained to us concepts very well and answered all questions patiently."</li>
 					<li>"Layal was amazing as she explained things clearly during tutorials and was very caring. She did extensively well when helping students out in office hours, helping students with pdf printing issues. She helped well and beyond what was expected. She is a really competent individual."</li>
 					<li>"Layal was by far my favorite TA of this term. She always went above and beyond to provide extra clarification or assistance when needed. She was even better at explaining than the prof was. She was good at communicating, making sure everyone was understanding, and wrote steps down to make tutorials clearer. I appreciated her responses on Piazza. Thank you for all your hard work. It was very much appreciated."</li>
+     <li>"Layal was an exceptional TA– her explanations were clear and made the tutorials more value additive."</li>
+					<li>"Extremely helpful. Learned more from her tutorials than every lecture combined. Phenomenal teacher and amazing at everything she did. Kept the tutorials interesting and engaging."</li>
+					<li>"Layal has a great systematic way of explaining concepts, making it very easy to follow with her during tutorials. It has been great having her as a TA and I would be happy to take another class with her!"</li>
+					<li>"Layal did a fantastic job as a T.A.! She seemed excited to teach each tutorial and had a solid understanding of the material. The manner in which she taught the tutorials was simple to follow, gave adequate time to work on our own, and expanded upon the topics taught."</li>
+					<li>"Layal was very attentive as a TA and answered emails in a timely manner. She was the silver lining to this course."</li>
+	
 				</blockquote>
 			</ul>
 		</div>
