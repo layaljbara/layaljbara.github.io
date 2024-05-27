@@ -55,14 +55,13 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Main -->
-<div id="main" class="alt">
+
 	
 <!-- Two -->
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Feedback from Students</h2>
+			<h1>Feedback from Students</h1>
 		</header>
 
 		<!-- Content -->
