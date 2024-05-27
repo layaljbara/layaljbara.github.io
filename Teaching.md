@@ -55,6 +55,9 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Main -->
+<div id="main" class="alt">
+	
 <!-- Two -->
 <section id="two">
 	<div class="inner">
