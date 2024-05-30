@@ -102,7 +102,7 @@ nav-menu: true
 			<p>Anonymous Evaluations:</p>
 			<ul>
 				<blockquote>
-					<li>"THANK YOU LAYAL FROM THE BOTTOM OF OUR HEARTS. Dear Layal, Thank you Layal for going above and beyond to prepare us for both the midterms and the final. From answering questions on Piazza to being super organized and concise during tutorials. Your review sessions were very thorough and helpful. You are amazing. Thank you so much <3" </li>
+					
 					<li>"This TA is the only reason I did not drop this course. She understood Python and taught it well in the short amount of time she had. She should be teaching this course. She was awesome!"</li>
 					<li>"Extremely helpful. Learned more from her tutorials than every lecture combined. Phenomenal teacher and amazing at everything she did. Kept the tutorials interesting and engaging."</li>
 					<li>"Layal is the reason I understand any of what is going on in this course, she was an AMAZING TA."</li>
@@ -115,6 +115,7 @@ nav-menu: true
 					<li>"Layal has a great systematic way of explaining concepts, making it very easy to follow with her during tutorials. It has been great having her as a TA and I would be happy to take another class with her!"</li>
 					<li>"Layal did a fantastic job as a T.A.! She seemed excited to teach each tutorial and had a solid understanding of the material. The manner in which she taught the tutorials was simple to follow, gave adequate time to work on our own, and expanded upon the topics taught."</li>
 					<li>"Layal was very attentive as a TA and answered emails in a timely manner. She was the silver lining to this course."</li>
+     					<li>"THANK YOU LAYAL FROM THE BOTTOM OF OUR HEARTS. Dear Layal, Thank you Layal for going above and beyond to prepare us for both the midterms and the final. From answering questions on Piazza to being super organized and concise during tutorials. Your review sessions were very thorough and helpful. You are amazing. Thank you so much <3" </li>
 	
 				</blockquote>
 			</ul>
