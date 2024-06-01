@@ -20,7 +20,7 @@ nav-menu: true
           <div style="text-align: left">
             <img src="figures/Poster1.png" width="400">
           </div>
-          <i><b>CHBE, UBC, 2024</b></i><br>
+          <dd>CHBE, UBC, 2024</dd>
         </dd>
       </dl>
       
@@ -30,7 +30,7 @@ nav-menu: true
           <div style="text-align: left">
             <img src="figures/Poster2.png" width="400">
           </div>
-          <i><b>CHBE, UBC, 2023</b></i><br>
+          <dd>CHBE, UBC, 2023</dd>
         </dd>
       </dl>
       
