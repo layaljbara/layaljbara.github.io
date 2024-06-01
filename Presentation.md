@@ -94,7 +94,7 @@ nav-menu: true
         </dd>
       </dl>
 
-      <!-- New Presentations -->
+
       <dl>
         <dt>Our Experience as Female Engineers in Training</dt>
         <dd>Hall of Fame, UBC, 2022</dd>
