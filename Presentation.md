@@ -12,12 +12,6 @@ nav-menu: true
     <div class="inner">
       <header class="major">
         <h1>Presentations</h1>
-
-
-
-        
-      <header class="major">
-        <h1>Presentations</h1>
       </header>
 
       <dl>
@@ -26,7 +20,7 @@ nav-menu: true
           <div style="text-align: left">
             <img src="figures/Poster1.png" width="400">
           </div>
-          <i><b>CHBE, UBC, 2024</i><br>
+          <i><b>CHBE, UBC, 2024</b></i><br>
         </dd>
       </dl>
       
@@ -36,37 +30,36 @@ nav-menu: true
           <div style="text-align: left">
             <img src="figures/Poster2.png" width="400">
           </div>
-          <i><b>CHBE,UBC, 2023</i><br>
+          <i><b>CHBE, UBC, 2023</b></i><br>
         </dd>
       </dl>
       
       <dl>
-        <dt>Adaptive Octree-grid and Conservative Numerical Simulation of the Unbounded Flow Past  a Non-spherical Obstacle /dt>
+        <dt>Adaptive Octree-grid and Conservative Numerical Simulation of the Unbounded Flow Past a Non-spherical Obstacle</dt>
         <dd>
           <div style="text-align: left">
             <img src="figures/Poster2.png" width="400">
           </div>
-          <i><b>IUTAM,Toulouse,France 2022</i><br>
+          <i><b>IUTAM, Toulouse, France, 2022</b></i><br>
         </dd>
       </dl>
       
       <dl>
-        <dt>Modeling Blood: When Hopes Deteriorate, Model and Simulate /dt>
+        <dt>Modeling Blood: When Hopes Deteriorate, Model and Simulate</dt>
         <dd>
           <div style="text-align: left">
             <img src="figures/3MT.png" width="400">
           </div>
-          <i><b>,CHBE,UBC, 2022</i><br>
+          <i><b>CHBE, UBC, 2022</b></i><br>
         </dd>
       </dl>
 
-            <dl>
-        <dt>Preparing a Winning Research Scholarhsip /dt>
+      <dl>
+        <dt>Preparing a Winning Research Scholarship</dt>
         <dd>
-          <i><b>CHBE,UBC, 2022</i><br>
+          <i><b>CHBE, UBC, 2022</b></i><br>
         </dd>
       </dl>
     </div>
   </section>
 </div>
-
