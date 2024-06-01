@@ -20,8 +20,8 @@ nav-menu: true
    			
 				<h3>Numerical Methods in Chemical Engineering (Fall 2021 - 2022 - 2023 - 2024)</h3>
    				<div style="text-align: center">
-   				<img src="https://raw.githubusercontent.com/layaljbara/layaljbara.github.io/master/assets/images/layal3.png" width="350"> 
-				<img src="https://raw.githubusercontent.com/layaljbara/layaljbara.github.io/master/assets/images/layal4.png" width="350"> 
+   				<img src="https://raw.githubusercontent.com/layaljbara/layaljbara.github.io/master/assets/images/layal3.png" width="380"> 
+				<img src="https://raw.githubusercontent.com/layaljbara/layaljbara.github.io/master/assets/images/layal4.png" width="380"> 
 			</div>
   			 </div>
 			<div class="10u$ 10u$(small)">
