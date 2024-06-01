@@ -39,12 +39,12 @@ nav-menu: true
         <dd>
           <div class="video-container">
             <div style="display: inline-block; width: 50%; text-align: left;">
-              <video width="400" controls>
+              <video width="350" controls>
                 <source src="figures/mv3.mp4" type="video/mp4">
               </video>
             </div>
             <div style="display: inline-block; width: 50%; text-align: left;">
-              <video width="400" controls>
+              <video width="350" controls>
                 <source src="figures/mv4.mp4" type="video/mp4">
               </video>
             </div>
@@ -59,12 +59,12 @@ nav-menu: true
         <dd>
          <div class="video-container">
           <div style="display: inline-block; width: 50%; text-align: left;">
-            <video width="400" controls>
+            <video width="350" controls>
               <source src="figures/mv1.mp4" type="video/mp4">
             </video>
           </div>
           <div style="display: inline-block; width: 50%; text-align: left;">
-            <video width="400" controls>
+            <video width="350" controls>
               <source src="figures/mv2.mp4" type="video/mp4">
             </video>
           </div>
