@@ -87,12 +87,44 @@ nav-menu: true
         </dd>
       </dl>
 
-      <dl>
+     <dl>
         <dt>Preparing a Winning Research Scholarship</dt>
         <dd>
           <i><b>CHBE, UBC, 2022</b></i><br>
         </dd>
       </dl>
+
+      <!-- New Presentations -->
+      <dl>
+        <dt>Our Experience as Female Engineers in Training</dt>
+        <dd>Hall of Fame, UBC, 2022</dd>
+      </dl>
+
+      <dl>
+        <dt>Graduate Student Council Introduction and Recruitment</dt>
+        <dd>Graduate Students Orientation, UBC, 2022</dd>
+      </dl>
+
+      <dl>
+        <dt>Why Graduate School</dt>
+        <dd>Information Session, Envision Team, UBC, 2021</dd>
+      </dl>
+
+      <dl>
+        <dt>What is a Union?</dt>
+        <dd>Faculty of Applied Science and Engineering, School of Landscape and Architecture, UBC, 2020, 2021, 2022</dd>
+      </dl>
+
+      <dl>
+        <dt>Promoting Graduate Studies</dt>
+        <dd>Canadian Graduate Engineering Consortium Virtual Fair, 2021</dd>
+      </dl>
+
+      <dl>
+        <dt>Women in Engineering (WiE) Introduction and Recruitment</dt>
+        <dd>Imagine Day, Campus Community Platform at Alma Mater Society, 2021</dd>
+      </dl>
+      
     </div>
   </section>
 </div>
