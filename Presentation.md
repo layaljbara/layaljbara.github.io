@@ -37,9 +37,19 @@ nav-menu: true
       <dl>
         <dt>Adaptive Octree-grid and Conservative Numerical Simulation of the Unbounded Flow Past a Non-spherical Obstacle</dt>
         <dd>
-          <div style="text-align: left">
-            <img src="figures/Poster2.png" width="400">
+          <div class="video-container">
+            <div style="display: inline-block; width: 50%; text-align: left;">
+              <video width="400" controls>
+                <source src="figures/mv3.mp4" type="video/mp4">
+              </video>
+            </div>
+            <div style="display: inline-block; width: 50%; text-align: left;">
+              <video width="400" controls>
+                <source src="figures/mv4.mp4" type="video/mp4">
+              </video>
+            </div>
           </div>
+
           <i><b>IUTAM, Toulouse, France, 2022</b></i><br>
         </dd>
       </dl>
@@ -47,18 +57,19 @@ nav-menu: true
       <dl>
         <dt>3D, adaptive octree-grid and conservative numerical simulation of the unbounded flow past non-spherical obstacle</dt>
         <dd>
-          <div class="video-container">
-            <div style="text-align: left">
-              <video width="400" controls>
-                <source src="figures/mv1.mp4" type="video/mp4">
-              </video>
-            </div>
-            <div style="text-align: left">
-              <video width="400" controls>
-                <source src="figures/mv2.mp4" type="video/mp4">
-              </video>
-            </div>
+         <div class="video-container">
+          <div style="display: inline-block; width: 50%; text-align: left;">
+            <video width="400" controls>
+              <source src="figures/mv1.mp4" type="video/mp4">
+            </video>
           </div>
+          <div style="display: inline-block; width: 50%; text-align: left;">
+            <video width="400" controls>
+              <source src="figures/mv2.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+                 
 
 
           <i><b>MATH, UBC, 2022</b></i><br>
