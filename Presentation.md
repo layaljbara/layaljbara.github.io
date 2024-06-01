@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Presentations
+title: Research
 nav-menu: true
 ---
 
