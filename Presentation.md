@@ -47,11 +47,20 @@ nav-menu: true
       <dl>
         <dt>3D, adaptive octree-grid and conservative numerical simulation of the unbounded flow past non-spherical obstacle</dt>
         <dd>
-          <div style="text-align: left">
-             <video width="400" controls>
-              <source src="figures/mv1.mp4" type="video/mp4"> <source src="figures/mv2.mp4" type="video/mp4">
-            </video>
+          <div class="video-container">
+            <div style="text-align: left">
+              <video width="400" controls>
+                <source src="figures/mv1.mp4" type="video/mp4">
+              </video>
+            </div>
+            <div style="text-align: left">
+              <video width="400" controls>
+                <source src="figures/mv2.mp4" type="video/mp4">
+              </video>
+            </div>
           </div>
+
+
           <i><b>MATH, UBC, 2022</b></i><br>
         </dd>
       </dl>
