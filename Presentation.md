@@ -18,10 +18,12 @@ nav-menu: true
       <div class="column">
         <div class="20u 10u$(small)">
           <h3>Hierarchical Machine Learning Modelling of Multiphase Flows,CHBE,UBC, 2024 </h3>
+          <img src="figures/Poster1.png" width="400">
         </div>
 
         <div class="20u 10u$(small)">
           <h3> Numerical Simulation of the Unbounded Flow Past a Non-spherical Obstacle,CHBE,UBC, 2023 </h3>
+          <img src="figures/Poster2.png" width="400">
         </div>
       <div class="20u 10u$(small)">
           <h3>Adaptive Octree-grid and Conservative Numerical Simulation of the Unbounded Flow Past  a Non-spherical Obstacle,  International Union of Theoretical and Applied Mechanics Symposium, Toulouse France, 2022 </h3>
@@ -31,6 +33,7 @@ nav-menu: true
         
         <div class="20u 10u$(small)">
           <h3>Modeling Blood: When Hopes Deteriorate, Model and Simulate,CHBE,UBC, 2022 </h3>
+          <img src="figures/3MT.png" width="400">
         </div>
         
         <div class="20u 10u$(small)">
