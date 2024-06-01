@@ -50,7 +50,7 @@ nav-menu: true
             </div>
           </div>
 
-          <i><b>IUTAM, Toulouse, France, 2022</b></i><br>
+          <dd>UTAM, Toulouse, France, 2022</dd>
         </dd>
       </dl>
       
@@ -72,7 +72,7 @@ nav-menu: true
                  
 
 
-          <i><b>MATH, UBC, 2022</b></i><br>
+          <dd>MATH, UBC, 2022</dd>
         </dd>
       </dl>
       
@@ -83,14 +83,14 @@ nav-menu: true
           <div style="text-align: left">
             <img src="figures/3MT.png" width="400">
           </div>
-          <i><b>CHBE, UBC, 2022</b></i><br>
+          <dd>CHBE, UBC, 2022</dd>
         </dd>
       </dl>
 
      <dl>
         <dt>Preparing a Winning Research Scholarship</dt>
         <dd>
-          <i><b>CHBE, UBC, 2022</b></i><br>
+          <dd>CHBE, UBC, 2022</dd>
         </dd>
       </dl>
 
