@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working under the supervision of Dr. Anthony Wachs at the University of British Columbia. My research focuses on numerical simulations, computational fluid dynamics (CFD), high-performance computing (HPC), and machine learning. My work combines traditional CFD techniques with data-driven approaches to enhance predictive modeling and improve the efficiency of large-scale simulations. With over 8 years of experience in mathematical modeling, I have developed expertise in analytical, numerical, and data-driven methods to solve complex problems in fluid mechanics.
+I am a PhD student working under the supervision of Dr. Anthony Wachs at the University of British Columbia. My research focuses on numerical simulations, computational fluid dynamics (CFD), high-performance computing (HPC), and machine learning. My work combines traditional CFD techniques with data-driven approaches to enhance predictive modeling and improve the efficiency of large-scale simulations. With over 8 years of experience in mathematical modeling, I have developed expertise in analytical, numerical, and data-driven methods to solve complex fluid-particle systems.
 
 
 
