@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-# Computational and Machine Learning Scientist | Doctoral Candidate
+# Computational and Machine Learning Scientist 
 
 I am a final-semester Ph.D. candidate at the University of British Columbia, working under the supervision of Professor Anthony Wachs. I am deeply passionate about addressing complex scientific challenges that are not only computationally and data intensive but also interdisciplinary in nature. My focus lies in leveraging advanced computational techniques and data-driven methodologies to solve real-world problems with meaningful impact.  My current research work focuses on numerical simulations, computational fluid dynamics (CFD), high-performance computing (HPC), and machine learning. My work combines traditional CFD techniques with data-driven approaches to enhance predictive modeling and improve the efficiency of large-scale simulations. 
 
