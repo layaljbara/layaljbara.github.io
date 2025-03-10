@@ -4,7 +4,7 @@ Layal Jbara:
   name        : "Layal Jbara"
   email       : "layaljbara4@gmail.com.com"
   bio         : "This is the first name."
-  avatar      : "headshot.jpg"
+  avatar: "/images/headshot.jpg"
   twitter     : "name"
   google_plus : "Name"
   pronouns: "she/her/hers"
