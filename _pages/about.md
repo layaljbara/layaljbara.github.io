@@ -30,7 +30,7 @@ These types of flows are inherently characterized by irregularly structured data
 
 ![My image](../images/GNN_prof.png)
 
-### A physics-inspired Hierarchical Neural Network
+### A Physics-Inspired Hierarchical Neural Network
 
 Interactions between particles in a fluid system can be of various orders: binary (involving two particles), ternary (involving three particles) and so on. These interactions play a crucial role in determining the behavior of the fluid and its properties. However, traditional models often simplify these interactions, typically focusing on unary and binary interactions, which may not capture the full complexity of the system. In this work, we propose and design a neural network architecture that goes beyond these simplified models by explicitly incorporating higher-order interactions, such as ternary and quaternary interactions, into its learning process. This model leverages the power of deep learning to capture complex, multiscale interactions in fluid systems, providing a more accurate representation of particle behavior. Moreover, we recognize that fluid systems often exhibit symmetries that can be leveraged to improve the model's performance and generalization. Therefore, our neural network design incorporates domain knowledge related to these symmetries.  The network is implemented, trained, and evaluated in Python using Tensorflow on the Cedar supercomputer at Digital Research Alliance of Canada.
 
