@@ -17,7 +17,7 @@ I thrive in environments that demand innovation, problem-solving, and interdisci
 
 
 
-Machine Learning Models
+## Machine Learning Models
 ======
 
 I designed and implemented several ML models to develop high fidelity closures for the hydrodynamic interactions in fluid suspensions of particles, also known as particle-laden flows. 
