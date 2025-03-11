@@ -11,9 +11,16 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+
+  - title: "Honors"
+    url: /honors/
     
   - title: "Gallery"
     url: /gallery/
+
+
+        
         
 
   - title: "CV"
