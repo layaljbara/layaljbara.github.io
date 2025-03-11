@@ -20,7 +20,7 @@ I thrive in environments that demand innovation, problem-solving, and interdisci
 ## Machine Learning Models
 
 
-I designed and implemented several ML models to develop high fidelity closures for the hydrodynamic interactions in fluid suspensions of particles, also known as particle-laden flows. 
+I designed and implemented several ML models to develop high fidelity closures for the hydrodynamic interactions in fluid suspensions of particles, also known as particle-laden flows. These ML models incorporate advanced techniques, such as physics-inspired architectures, graph neural networks and attention mechanisms, to capture the multiscale and non-linear interactions between particles. By training on diverse data, the models are designed to generalize well to different flow conditions and particle configurations, making them adaptable to a variety of scenarios encountered in real-world applications
 
 ![My image](../images/model.png)
 
