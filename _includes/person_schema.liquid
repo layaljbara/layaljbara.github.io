@@ -1,0 +1,57 @@
+{% comment %}
+  Person JSON-LD for the homepage. Helps Google connect name, photo,
+  affiliation, and profiles (Scholar, ORCID, LinkedIn, GitHub).
+{% endcomment %}
+{% assign s = site.data.socials %}
+{% assign same_as = '' | split: ',' %}
+{% if s.github_username %}
+  {% capture link %}https://github.com/{{ s.github_username }}{% endcapture %}
+  {% assign same_as = same_as | push: link %}
+{% endif %}
+{% if s.linkedin_username %}
+  {% capture link %}https://www.linkedin.com/in/{{ s.linkedin_username }}{% endcapture %}
+  {% assign same_as = same_as | push: link %}
+{% endif %}
+{% if s.orcid_id %}
+  {% capture link %}https://orcid.org/{{ s.orcid_id }}{% endcapture %}
+  {% assign same_as = same_as | push: link %}
+{% endif %}
+{% if s.scholar_userid %}
+  {% capture link %}https://scholar.google.com/citations?user={{ s.scholar_userid }}{% endcapture %}
+  {% assign same_as = same_as | push: link %}
+{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+  "name": "Layal Jbara",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "image": "{{ site.url }}{{ site.baseurl }}/assets/img/layal-jbara.jpg",
+  "jobTitle": "Postdoctoral Fellow",
+  "description": {{ site.description | strip | jsonify }},
+  "worksFor": {
+    "@type": "Organization",
+    "name": "University Health Network",
+    "url": "https://www.uhn.ca/"
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "University Health Network",
+      "url": "https://www.uhn.ca/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Bhat Lab",
+      "url": "https://bhatlab.ca/"
+    }
+  ],
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of British Columbia",
+    "url": "https://www.ubc.ca/"
+  },
+  "sameAs": {{ same_as | jsonify }}
+}
+</script>

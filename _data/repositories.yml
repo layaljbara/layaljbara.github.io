@@ -1,0 +1,12 @@
+github_users:
+  - layaljbara
+
+repo_description_lines_max: 2
+
+github_repos:
+  - layaljbara/clinical-ai-tutorials
+  - layaljbara/transplant-ai-projects
+  - layaljbara/Genetic-Expression-Data-Processing-Visualization-Analysis-Workshop
+  - layaljbara/From-Scratch-LanguageModel
+  - layaljbara/PINN-Modeling-of-Higher-Order-Hydrodynamic-Interactions-in-Heterogeneous-Suspensions
+  - layaljbara/Graph-Neural-Network-based-Model-of-Hydrodynamic-Closure-Laws

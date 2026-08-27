@@ -1,0 +1,161 @@
+<style>
+  .team-intro { margin-bottom: 1.25rem; }
+  .team-section { margin: 1.25rem 0 1.5rem; }
+  .team-section:first-of-type { margin-top: 0; }
+  .team-section > h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 1.25rem;
+  }
+  .team-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  @media (min-width: 700px) {
+    .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (min-width: 980px) {
+    .team-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  .person-card {
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    padding: 1.4rem 1rem 1.2rem;
+    background: rgba(255,255,255,0.45);
+    height: 100%;
+  }
+  html[data-theme="dark"] .person-card,
+  html.dark .person-card {
+    border-color: rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.03);
+  }
+  .person-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    margin: 0 auto 0.85rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .person-name { margin: 0 0 0.25rem; font-size: 1.05rem; font-weight: 600; }
+  .person-role { margin: 0; font-size: 0.9rem; opacity: 0.8; }
+  .person-focus { margin: 0.45rem 0 0; font-size: 0.92rem; line-height: 1.35; }
+  .person-years { margin: 0.35rem 0 0; font-size: 0.85rem; opacity: 0.65; }
+  .person-links { margin: 0.55rem 0 0; font-size: 0.85rem; }
+  .person-links a { text-decoration: none; }
+</style>
+
+<div class="team-section">
+  <h3>Graduate students</h3>
+  <div class="team-grid">
+    <div class="person-card">
+      <div class="person-avatar" style="background:#3b8c6b;">RA</div>
+      <p class="person-name">Rabab Azeem</p>
+      <p class="person-role">MASc Student · University of Toronto</p>
+      <p class="person-focus">Liver transplant outcomes &amp; donor-recipient matching</p>
+      <p class="person-years">2025 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/rabab-azeem/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</div>
+
+<div class="team-section">
+  <h3>Medical students</h3>
+  <div class="team-grid">
+    <div class="person-card">
+      <div class="person-avatar" style="background:#5a3b8c;">EB</div>
+      <p class="person-name">Enzo Baracuhy</p>
+      <p class="person-role">MD Student · University of Toronto</p>
+      <p class="person-focus">World models &amp; clinical-note time series</p>
+      <p class="person-years">2026 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/enzobaracuhy/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+    <div class="person-card">
+      <div class="person-avatar" style="background:#5a6b3b;">MM</div>
+      <p class="person-name">Mathula Muhundan</p>
+      <p class="person-role">MD Student · Memorial University</p>
+      <p class="person-focus">Foundation models for liver transplantation</p>
+      <p class="person-years">2025 - Present</p>
+    </div>
+  </div>
+</div>
+
+<div class="team-section">
+  <h3>Undergraduate researchers</h3>
+  <div class="team-grid">
+    <div class="person-card">
+      <div class="person-avatar" style="background:#3b6d8c;">AE</div>
+      <p class="person-name">Amyra El Khatib</p>
+      <p class="person-role">Undergraduate · University of Toronto · MOTSRTP</p>
+      <p class="person-focus">Clinical-note curation &amp; ML tooling</p>
+      <p class="person-years">2025 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/amyra-el-khatib-807b40290/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+    <div class="person-card">
+      <div class="person-avatar" style="background:#2f6b5a;">AG</div>
+      <p class="person-name">Andy Gu</p>
+      <p class="person-role">Undergraduate · Engineering Science, U of T</p>
+      <p class="person-focus">Clinical-note pipelines &amp; applied ML</p>
+      <p class="person-years">2026 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/theandygu/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+    <div class="person-card">
+      <div class="person-avatar" style="background:#8c5a3b;">NC</div>
+      <p class="person-name">Nick Cai</p>
+      <p class="person-role">Undergraduate · McMaster University</p>
+      <p class="person-focus">World models &amp; clinical-note time series</p>
+      <p class="person-years">2025 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/nick-cai-baa2ba182/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+    <div class="person-card">
+      <div class="person-avatar" style="background:#6b3b5a;">DS</div>
+      <p class="person-name">Disha Sawhney</p>
+      <p class="person-role">Undergraduate · McMaster University</p>
+      <p class="person-focus">Clinical-note curation &amp; ML tooling</p>
+      <p class="person-years">2025 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/disha-sawhney-91742b2a9/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</div>
+
+<div class="team-section">
+  <h3>Research interns</h3>
+  <div class="team-grid">
+    <div class="person-card">
+      <div class="person-avatar" style="background:#3b5a8c;">PM</div>
+      <p class="person-name">Praveen Manickavel</p>
+      <p class="person-role">Research Student</p>
+      <p class="person-focus">Clinical language models &amp; transplant foundation-model work</p>
+      <p class="person-years">2024 - Present</p>
+    </div>
+    <div class="person-card">
+      <div class="person-avatar" style="background:#8c6b3b;">SM</div>
+      <p class="person-name">Samhita Mallavarapu</p>
+      <p class="person-role">ML Intern · UHN Gastroenterology</p>
+      <p class="person-focus">Clinical language models for transplant care</p>
+      <p class="person-years">2024 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/samhitamallavarapu/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</div>
+
+<div class="team-section">
+  <h3>High school students</h3>
+  <div class="team-grid">
+    <div class="person-card">
+      <div class="person-avatar" style="background:#6b3b8c;">AZ</div>
+      <p class="person-name">Muhammad Ayaan Zahoor</p>
+      <p class="person-role">High School Student · A.Y. Jackson SS</p>
+      <p class="person-focus">PyTorch &amp; image analysis for digital pathology</p>
+      <p class="person-years">2026 - Present</p>
+      <p class="person-links"><a href="https://www.linkedin.com/in/muhammad-ayaan-zahoor-7610b3365/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</div>

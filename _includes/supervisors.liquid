@@ -1,0 +1,57 @@
+<style>
+  .lab-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  @media (min-width: 700px) {
+    .lab-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  .lab-card {
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    padding: 1.4rem 1rem 1.2rem;
+    background: rgba(255,255,255,0.45);
+    height: 100%;
+  }
+  html[data-theme="dark"] .lab-card,
+  html.dark .lab-card {
+    border-color: rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.03);
+  }
+  .lab-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    margin: 0 auto 0.85rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .lab-name { margin: 0 0 0.25rem; font-size: 1.05rem; font-weight: 600; }
+  .lab-role { margin: 0; font-size: 0.9rem; opacity: 0.8; }
+  .lab-focus { margin: 0.45rem 0 0; font-size: 0.92rem; line-height: 1.35; }
+  .lab-links { margin: 0.55rem 0 0; font-size: 0.85rem; }
+  .lab-links a { text-decoration: none; }
+</style>
+
+<div class="lab-grid">
+  <div class="lab-card">
+    <div class="lab-avatar" style="background:#0d6e6e;">MB</div>
+    <p class="lab-name">Mamatha Bhat, MD, PhD</p>
+    <p class="lab-role">Mentor · Bhat Lab, UHN</p>
+    <p class="lab-focus">Precision medicine &amp; transplant AI</p>
+    <p class="lab-links"><a href="https://bhatlab.ca/" target="_blank" rel="noopener">Lab</a></p>
+  </div>
+  <div class="lab-card">
+    <div class="lab-avatar" style="background:#3b5a8c;">DS</div>
+    <p class="lab-name">Divya Sharma, PhD</p>
+    <p class="lab-role">Mentor · IMPACT-AI, York / UHN</p>
+    <p class="lab-focus">Clinical AI &amp; foundation models</p>
+    <p class="lab-links"><a href="https://divya-sharma-york.github.io" target="_blank" rel="noopener">Lab</a></p>
+  </div>
+</div>

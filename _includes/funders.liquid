@@ -1,0 +1,71 @@
+<style>
+  .funders-wrap { margin: 2.5rem 0 1rem; }
+  .funders-wrap h2 { margin-bottom: 1.25rem; }
+  .funders-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 1.5rem;
+    align-items: stretch;
+  }
+  @media (min-width: 700px) {
+    .funders-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  .funder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 8.5rem;
+    padding: 1.5rem 1.25rem;
+    text-decoration: none !important;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    background: #fff;
+  }
+  .funder img {
+    width: 100%;
+    max-width: 280px;
+    height: 88px;
+    object-fit: contain;
+    object-position: center;
+    opacity: 1;
+    filter: none;
+  }
+  .funder:hover {
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+  html[data-theme="dark"] .funder,
+  html.dark .funder {
+    border-color: rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.06);
+  }
+  html[data-theme="dark"] .funder img,
+  html.dark .funder img {
+    filter: brightness(1.08);
+  }
+</style>
+
+<div class="funders-wrap">
+  {% unless include.hide_title %}
+  <h2>Funders and collaborators</h2>
+  {% endunless %}
+  <div class="funders-grid">
+    <a class="funder" href="https://hms.harvard.edu/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/harvard.svg' | relative_url }}" alt="Harvard Medical School">
+    </a>
+    <a class="funder" href="https://www.mayoclinic.org/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/mayo.svg' | relative_url }}" alt="Mayo Clinic">
+    </a>
+    <a class="funder" href="https://www.mitacs.ca/our-programs/accelerate-internship/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/mitacs.svg' | relative_url }}" alt="Mitacs Accelerate">
+    </a>
+    <a class="funder" href="https://knighttx.com/CA/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/knight.svg' | relative_url }}" alt="Knight Therapeutics">
+    </a>
+    <a class="funder" href="https://uhnfoundation.ca/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/uhn-foundation.svg' | relative_url }}" alt="UHN Foundation">
+    </a>
+    <a class="funder" href="https://www.cedars-sinai.org/" target="_blank" rel="noopener">
+      <img src="{{ '/assets/img/funders/cedars-sinai.svg' | relative_url }}" alt="Cedars-Sinai, Los Angeles">
+    </a>
+  </div>
+</div>

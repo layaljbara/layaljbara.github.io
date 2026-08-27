@@ -1,0 +1,80 @@
+cv:
+  name: Layal Jbara
+  label: Postdoctoral Research Fellow
+  email: layal.jbara@uhn.ca
+  location: Toronto, Canada
+  image: ""
+  summary: Postdoctoral fellow at the Ajmera Transplant Centre (UHN) working on clinical language models, digital pathology / image models, and world models / time-series for liver transplantation. Previously a Vanier Scholar at UBC.
+
+  social_networks:
+    - network: Google Scholar
+      username: "-9SG7fEAAAAJ"
+
+  address:
+    street: Ajmera Transplant Centre, University Health Network
+    city: Toronto
+    region: Ontario
+    postalCode: ""
+    countryCode: CA
+
+  sections:
+    Education:
+      - institution: University of British Columbia
+        location: Vancouver, Canada
+        url: https://www.ubc.ca/
+        area: Chemical and Biological Engineering
+        studyType: PhD
+        start_date: 2019
+        end_date: 2025
+        highlights:
+          - Vanier Canada Graduate Scholarship
+          - Supervised by Anthony Wachs
+          - Thesis on hydrodynamic interactions in non-spherical particle-laden flows, combining HPC with graph and physics-inspired neural networks
+
+      - institution: Queen's University
+        location: Kingston, Canada
+        url: https://www.queensu.ca/
+        area: Chemical Engineering
+        studyType: MASc
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - Macromolecular orientation of rigid dumbbells in shear flow
+
+      - institution: Queen's University
+        location: Kingston, Canada
+        area: Chemical Engineering
+        studyType: BEng
+        start_date: ""
+        end_date: 2016
+
+    Experience:
+      - company: Ajmera Transplant Centre, University Health Network
+        position: Postdoctoral Research Fellow
+        location: Toronto, Canada
+        start_date: 2025
+        end_date: present
+        summary: Bhat Lab. Domain-specialized foundation language models for hepatology and liver transplantation; computer vision and transformers for digital pathology.
+        highlights:
+          - Clinical LLMs on post-transplant clinic letters
+          - SOP-cited Assessment & Plan generation
+          - Mentoring students in the lab
+
+      - company: University of British Columbia
+        position: PhD candidate and Vanier Scholar
+        location: Vancouver, Canada
+        start_date: 2019
+        end_date: 2025
+        highlights:
+          - Physics-inspired and graph neural networks for particle-laden flows
+          - Killam Graduate Teaching Assistant Award, 2024/2025
+
+    Awards:
+      - name: Mitacs Accelerate Internship
+        end_date: present
+        start_date: 2026-07
+        summary: Postdoctoral Fellow. Host Ajmera Transplant Centre / UHN; industry partner Knight Therapeutics.
+      - name: Vanier Canada Graduate Scholarship
+        end_date: 2025
+      - name: Killam Graduate Teaching Assistant Award
+        end_date: 2025

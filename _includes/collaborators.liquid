@@ -1,0 +1,76 @@
+<style>
+  .collab-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  @media (min-width: 700px) {
+    .collab-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (min-width: 980px) {
+    .collab-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  .collab-card {
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 14px;
+    padding: 1.4rem 1rem 1.2rem;
+    background: rgba(255,255,255,0.45);
+    height: 100%;
+  }
+  html[data-theme="dark"] .collab-card,
+  html.dark .collab-card {
+    border-color: rgba(255,255,255,0.12);
+    background: rgba(255,255,255,0.03);
+  }
+  .collab-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    margin: 0 auto 0.85rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .collab-name { margin: 0 0 0.25rem; font-size: 1.05rem; font-weight: 600; }
+  .collab-role { margin: 0; font-size: 0.9rem; opacity: 0.8; }
+  .collab-focus { margin: 0.45rem 0 0; font-size: 0.92rem; line-height: 1.35; }
+  .collab-links { margin: 0.55rem 0 0; font-size: 0.85rem; }
+  .collab-links a { text-decoration: none; }
+</style>
+
+<div class="collab-grid">
+  <div class="collab-card">
+    <div class="collab-avatar" style="background:#6b3b5a;">VK</div>
+    <p class="collab-name">Varun Kanal</p>
+    <p class="collab-role">UHN · Multiorgan Transplant</p>
+    <p class="collab-focus">Foundation models for transplantation</p>
+  </div>
+  <div class="collab-card">
+    <div class="collab-avatar" style="background:#8c6b3b;">SG</div>
+    <p class="collab-name">Soumita Ghosh</p>
+    <p class="collab-role">UHN · Multiorgan Transplant</p>
+    <p class="collab-focus">Foundation models for transplantation</p>
+  </div>
+  <div class="collab-card">
+    <div class="collab-avatar" style="background:#3b6b8c;">SM</div>
+    <p class="collab-name">Saba Maleki, MD</p>
+    <p class="collab-role">Postdoctoral fellow · UHN / Ajmera</p>
+    <p class="collab-focus">Post-transplant outcomes &amp; ML risk prediction</p>
+  </div>
+  <div class="collab-card">
+    <div class="collab-avatar" style="background:#5a3b8c;">NK</div>
+    <p class="collab-name">Naga Karthik Enamundram</p>
+    <p class="collab-role">Postdoctoral researcher · UHN / Vector</p>
+    <p class="collab-focus">Multimodal deep learning for transplant prioritization</p>
+  </div>
+  <div class="collab-card">
+    <div class="collab-avatar" style="background:#8c5a3b;">AG</div>
+    <p class="collab-name">Ankita Ghatak</p>
+    <p class="collab-role">PhD student · University of Toronto</p>
+    <p class="collab-focus">Multimodal AI for liver graft fibrosis</p>
+  </div>
+</div>

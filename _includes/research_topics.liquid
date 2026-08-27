@@ -1,0 +1,51 @@
+<style>
+  .research-topics-intro { margin-bottom: 1rem; }
+  .research-topics .card-title { font-size: 1.05rem; }
+  /* Keep card thumbnails readable without dominating the card */
+  .research-topics .card-img-top,
+  .research-topics .card img {
+    max-height: 200px;
+    object-fit: contain;
+    width: 100%;
+    background: #12161c;
+  }
+  /* Force 2x2 on the about-page research cards */
+  .research-topics > .row {
+    display: grid !important;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  @media (min-width: 768px) {
+    .research-topics > .row {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .research-topics > .row > .col {
+    width: 100%;
+    max-width: 100%;
+    flex: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+</style>
+
+<p class="research-topics-intro">
+  <a href="{{ '/projects/1_clinical_llms/' | relative_url }}">Clinical language models</a>
+  ·
+  <a href="{{ '/projects/4_world_models/' | relative_url }}">World models / time-series</a>
+  ·
+  <a href="{{ '/projects/2_pathology/' | relative_url }}">Digital pathology &amp; image models</a>
+  ·
+  <a href="{{ '/projects/3_digital_twins/' | relative_url }}">Digital twins</a>
+</p>
+
+<div class="projects research-topics">
+  <div class="row">
+    {% assign healthcare_projects = site.projects | where: "category", "healthcare" | sort: "importance" %}
+    {% for project in healthcare_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+</div>
