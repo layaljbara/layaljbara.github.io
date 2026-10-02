@@ -33,9 +33,9 @@ nav_order: 5
 
 ### Research presentation awards
 
-- **2025** - First Place, Presentation Competition, [CHBE Research Day](https://chbe.ubc.ca/) (~$500 CAD), University of British Columbia.
+- **2025** - First Place, Presentation Competition, [CHBE Research Day](https://chbe.ubc.ca/), University of British Columbia.
 
-- **2023** - First Place, Poster Competition, [CHBE Research Day](https://chbe.ubc.ca/) (~$500 CAD), University of British Columbia.
+- **2023** - First Place, Poster Competition, [CHBE Research Day](https://chbe.ubc.ca/), University of British Columbia.
 
-- **2022** - First Place, 3MT (departmental), [CHBE Research Day](https://chbe.ubc.ca/) (~$500 CAD), University of British Columbia.  
+- **2022** - First Place, 3MT (departmental), [CHBE Research Day](https://chbe.ubc.ca/), University of British Columbia.  
   Also competed at the [UBC 3MT](https://www.grad.ubc.ca/current-students/professional-development/three-minute-thesis-competition) semi-final level.
