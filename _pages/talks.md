@@ -10,7 +10,7 @@ nav_order: 3.5
 ### Conferences
 
 - **2026** - [Hepatology Update 2026](https://www.torontohepatologyupdate.com/) / [Sheila Sherlock Research Day](https://www.torontohepatologyupdate.com/abstract-submission), [Toronto Centre for Liver Disease](https://www.uhn.ca/Medicine/Clinics/Liver_Clinic) / [UHN](https://www.uhn.ca/).  
-  [Schwartz Reisman Innovation Campus](https://srinnovation.ca/), 108 College Street, Toronto (October 1-2, 2026).  
+  [Schwartz Reisman Innovation Campus](https://srinnovation.ca/) (October 1).  
   Presented and moderated on October 1: pathology foundation models for ACR vs recurrent MASH on liver allograft biopsies.
 
 - **2026** - [CST Annual Scientific Meeting](https://conference.cst-transplant.ca/), [Canadian Society of Transplantation](https://www.cst-transplant.ca/), Montréal, QC (October 26-30, 2026).  
@@ -35,7 +35,7 @@ nav_order: 3.5
 ### Invited & conference talks
 
 - **2026** - *Pathology foundation models for ACR and recurrent MASH on liver allograft biopsies*.  
-  [Hepatology Update 2026](https://www.torontohepatologyupdate.com/) / Sheila Sherlock Research Day, [Schwartz Reisman Innovation Campus](https://srinnovation.ca/), 108 College Street, Toronto. Presented and moderated on October 1, 2026.
+  [Hepatology Update 2026](https://www.torontohepatologyupdate.com/) / Sheila Sherlock Research Day, [Schwartz Reisman Innovation Campus](https://srinnovation.ca/). Presented and moderated on October 1.
 
 - **2026** - *Simulating Transplant Futures*.  
   [CIHR Team Liver AI](https://hepatology.ca/2025/06/02/collaboratively-address-equity-challenges-in-liver-transplantation/) Project - National Data Committee Meeting (July 23, 2026).  
