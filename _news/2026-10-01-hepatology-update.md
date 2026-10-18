@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming talk at [Hepatology Update 2026](https://www.torontohepatologyupdate.com/) / Sheila Sherlock Research Day (Oct 1-2, Toronto): pathology foundation models for ACR vs recurrent MASH on liver allograft biopsies.
+Presented and moderated on Oct 1 at [Hepatology Update 2026](https://www.torontohepatologyupdate.com/) / Sheila Sherlock Research Day (Toronto): pathology foundation models for ACR vs recurrent MASH on liver allograft biopsies.
